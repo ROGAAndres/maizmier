@@ -1,9 +1,30 @@
-
-/* this is what i want to do*/
-
 body{
-    background-color: beige;
+    background: white;
+    color: black;
+    }
+h1{
+    color: #8E3225;
+    text-align: center;
+    
 }
-h3 {
-    color:#8E3225;
+
+.izq{
+    display: block;
+    height: 95px;
+    width: 200px;
+    
 }
+.der{
+    display: block;
+    height: 95px;
+    width: 200px;
+    text-align: right;
+    
+
+}
+
+.line-1 {
+    height: 2px;
+    background: black;
+  }
+  
